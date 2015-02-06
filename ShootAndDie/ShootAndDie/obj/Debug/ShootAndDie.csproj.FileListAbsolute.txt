@@ -1,0 +1,16 @@
+d:\users\шурик\documents\visual studio 2012\Projects\ShootAndDie\ShootAndDie\bin\Debug\ShootAndDie.exe.config
+d:\users\шурик\documents\visual studio 2012\Projects\ShootAndDie\ShootAndDie\bin\Debug\libsndfile-1.dll
+d:\users\шурик\documents\visual studio 2012\Projects\ShootAndDie\ShootAndDie\bin\Debug\openal32.dll
+d:\users\шурик\documents\visual studio 2012\Projects\ShootAndDie\ShootAndDie\bin\Debug\csfml-audio-2.dll
+d:\users\шурик\documents\visual studio 2012\Projects\ShootAndDie\ShootAndDie\bin\Debug\csfml-graphics-2.dll
+d:\users\шурик\documents\visual studio 2012\Projects\ShootAndDie\ShootAndDie\bin\Debug\csfml-window-2.dll
+d:\users\шурик\documents\visual studio 2012\Projects\ShootAndDie\ShootAndDie\bin\Debug\ShootAndDie.exe
+d:\users\шурик\documents\visual studio 2012\Projects\ShootAndDie\ShootAndDie\bin\Debug\ShootAndDie.pdb
+d:\users\шурик\documents\visual studio 2012\Projects\ShootAndDie\ShootAndDie\bin\Debug\Otter.dll
+d:\users\шурик\documents\visual studio 2012\Projects\ShootAndDie\ShootAndDie\bin\Debug\sfmlnet-graphics-2.dll
+d:\users\шурик\documents\visual studio 2012\Projects\ShootAndDie\ShootAndDie\bin\Debug\sfmlnet-window-2.dll
+d:\users\шурик\documents\visual studio 2012\Projects\ShootAndDie\ShootAndDie\bin\Debug\sfmlnet-audio-2.dll
+d:\users\шурик\documents\visual studio 2012\Projects\ShootAndDie\ShootAndDie\bin\Debug\Otter.pdb
+d:\users\шурик\documents\visual studio 2012\Projects\ShootAndDie\ShootAndDie\obj\Debug\ShootAndDie.csprojResolveAssemblyReference.cache
+d:\users\шурик\documents\visual studio 2012\Projects\ShootAndDie\ShootAndDie\obj\Debug\ShootAndDie.exe
+d:\users\шурик\documents\visual studio 2012\Projects\ShootAndDie\ShootAndDie\obj\Debug\ShootAndDie.pdb
